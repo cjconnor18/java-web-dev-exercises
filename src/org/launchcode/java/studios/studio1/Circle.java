@@ -1,4 +1,4 @@
-package studios.studio1;
+package org.launchcode.java.studios.studio1;
 
 public class Circle {
     public static Double getArea(Double radius) {

@@ -1,4 +1,4 @@
-package studios.studio1;
+package org.launchcode.java.studios.studio1;
 
 import java.util.Scanner;
 

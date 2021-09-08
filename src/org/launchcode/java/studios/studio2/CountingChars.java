@@ -1,7 +1,6 @@
-package studios.studio2;
+package org.launchcode.java.studios.studio2;
 
 import java.util.HashMap;
-import java.util.Locale;
 import java.util.Map;
 
 public class CountingChars {
